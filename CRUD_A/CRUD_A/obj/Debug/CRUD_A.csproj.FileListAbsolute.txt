@@ -1,0 +1,11 @@
+D:\Abdurrehman 2021-CS-44\4th Semester\DBS_Lab\Week_2\CRUD_A\CRUD_A\bin\Debug\CRUD_A.exe.config
+D:\Abdurrehman 2021-CS-44\4th Semester\DBS_Lab\Week_2\CRUD_A\CRUD_A\bin\Debug\CRUD_A.exe
+D:\Abdurrehman 2021-CS-44\4th Semester\DBS_Lab\Week_2\CRUD_A\CRUD_A\bin\Debug\CRUD_A.pdb
+D:\Abdurrehman 2021-CS-44\4th Semester\DBS_Lab\Week_2\CRUD_A\CRUD_A\obj\Debug\CRUD_A.csproj.AssemblyReference.cache
+D:\Abdurrehman 2021-CS-44\4th Semester\DBS_Lab\Week_2\CRUD_A\CRUD_A\obj\Debug\CRUD_A.csproj.SuggestedBindingRedirects.cache
+D:\Abdurrehman 2021-CS-44\4th Semester\DBS_Lab\Week_2\CRUD_A\CRUD_A\obj\Debug\CRUD_A.Form1.resources
+D:\Abdurrehman 2021-CS-44\4th Semester\DBS_Lab\Week_2\CRUD_A\CRUD_A\obj\Debug\CRUD_A.Properties.Resources.resources
+D:\Abdurrehman 2021-CS-44\4th Semester\DBS_Lab\Week_2\CRUD_A\CRUD_A\obj\Debug\CRUD_A.csproj.GenerateResource.cache
+D:\Abdurrehman 2021-CS-44\4th Semester\DBS_Lab\Week_2\CRUD_A\CRUD_A\obj\Debug\CRUD_A.csproj.CoreCompileInputs.cache
+D:\Abdurrehman 2021-CS-44\4th Semester\DBS_Lab\Week_2\CRUD_A\CRUD_A\obj\Debug\CRUD_A.exe
+D:\Abdurrehman 2021-CS-44\4th Semester\DBS_Lab\Week_2\CRUD_A\CRUD_A\obj\Debug\CRUD_A.pdb
